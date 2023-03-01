@@ -96,7 +96,7 @@
     "node-sass": "^4.13.1",
     "normalize.css": "^6.0.0",
     "postcss-loader": "^1.1.0",
-    "qs": "^6.4.0",
+    "qs": "^6.11.0",
     "react": "^15.5.4",
     "react-ace": "^4.2.1",
     "react-addons-test-utils": "^15.0.0",
